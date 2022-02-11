@@ -1,12 +1,16 @@
-RENCANA CONTENT SONN
+RENCANA CONTENT SON
 
-- JavaScript 
-  - Angular
+- Framework JS
+  - Vue
+  - React
+
 
 - Belajar PHP 
   Saya akan belajar PHP dan Framework nya yaitu :
   - Codeigniter
   - OOP
+  - Laravel
 
 - Interview
 - Belajar Python
+- C++
