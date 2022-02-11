@@ -1,5 +1,8 @@
 RENCANA CONTENT SONN
 
+- JavaScript 
+  - Angular
+
 - Belajar PHP 
   Saya akan belajar PHP dan Framework nya yaitu :
   - Codeigniter
