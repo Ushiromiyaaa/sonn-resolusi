@@ -1,4 +1,8 @@
 RENCANA CONTENT SONN
+
 - Belajar PHP 
+  Saya akan belajar PHP dan Framework nya yaitu :
+  - Codeigniter
+
 - Interview
 - Belajar Python
