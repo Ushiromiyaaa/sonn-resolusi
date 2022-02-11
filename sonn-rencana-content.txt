@@ -1,8 +1,9 @@
-RENCANA CONTENT SONN
+RENCANA CONTENT SON
 
 - Framework JS
   - Vue
   - React
+
 
 - Belajar PHP 
   Saya akan belajar PHP dan Framework nya yaitu :
