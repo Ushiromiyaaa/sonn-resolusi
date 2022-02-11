@@ -1,9 +1,15 @@
 RENCANA CONTENT SONN
 
+- Framework JS
+  - Vue
+  - React
+
 - Belajar PHP 
   Saya akan belajar PHP dan Framework nya yaitu :
   - Codeigniter
   - OOP
+  - Laravel
 
 - Interview
 - Belajar Python
+- C++
